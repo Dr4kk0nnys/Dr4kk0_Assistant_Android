@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Dr4kk0_Assistant_test'
